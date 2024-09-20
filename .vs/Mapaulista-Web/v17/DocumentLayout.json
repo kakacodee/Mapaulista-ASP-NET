@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\views\\praia\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\praia\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\ilhabela.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\ilhabela.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\views\\praia\\ilhabela.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\praia\\ilhabela.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\controllers\\praiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\controllers\\praiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\santos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\santos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\caraguatatuba.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\caraguatatuba.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\views\\home\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\home\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\views\\praia\\caraguatatuba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\praia\\caraguatatuba.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\configuracoes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\configuracoes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\onedrive\\\u00E1rea de trabalho\\mapaulista-web\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\telainicial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\telainicial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ilhabela.css",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Ilhabela.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\Ilhabela.css",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Ilhabela.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\Ilhabela.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T01:36:09.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ilhabela.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Praia\\Ilhabela.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Praia\\Ilhabela.cshtml",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Praia\\Ilhabela.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Praia\\Ilhabela.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T01:30:50.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Caraguatatuba.css",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Caraguatatuba.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\Caraguatatuba.css",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Caraguatatuba.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\Caraguatatuba.css",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-19T23:42:00.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Santos.css",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T02:06:27.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PraiaController.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Controllers\\PraiaController.cs",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Controllers\\PraiaController.cs",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Controllers\\PraiaController.cs",
+              "RelativeToolTip": "Mapaulista-Web\\Controllers\\PraiaController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:48:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Santos.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Praia\\Santos.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Praia\\Santos.cshtml",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Praia\\Santos.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Praia\\Santos.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T19:47:44.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Santos.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T23:40:10.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Caraguatatuba.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Praia\\Caraguatatuba.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Praia\\Caraguatatuba.cshtml",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Praia\\Caraguatatuba.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Praia\\Caraguatatuba.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAADLAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T23:36:59.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mapaulista-Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:25:19.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TelaInicial.css",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAE8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T02:14:57.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuracoes.css",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T03:19:22.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\olive\\OneDrive\\\u00C1rea de Trabalho\\Mapaulista-Web\\Mapaulista-Web\\Mapaulista-Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:48:27.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

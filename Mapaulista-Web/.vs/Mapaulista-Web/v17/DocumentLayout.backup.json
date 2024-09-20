@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\source\\repos\\mapaulista-web\\mapaulista-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\source\\repos\\mapaulista-web\\mapaulista-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\source\\repos\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\telainicial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\telainicial.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\source\\repos\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\santos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\santos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\source\\repos\\mapaulista-web\\mapaulista-web\\views\\home\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\home\\santos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\source\\repos\\mapaulista-web\\mapaulista-web\\wwwroot\\css\\configuracoes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\wwwroot\\css\\configuracoes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|c:\\users\\olive\\source\\repos\\mapaulista-web\\mapaulista-web\\views\\home\\configuracoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35BE9A8D-1230-44F3-BB17-21D4F87760D2}|Mapaulista-Web\\Mapaulista-Web.csproj|solutionrelative:mapaulista-web\\views\\home\\configuracoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuracoes.css",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\Configuracoes.css",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T03:19:22.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "configuracoes.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\configuracoes.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Home\\configuracoes.cshtml",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\configuracoes.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Home\\configuracoes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T03:07:36.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaInicial.css",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\TelaInicial.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T02:14:57.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Santos.css",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "RelativeToolTip": "Mapaulista-Web\\wwwroot\\css\\Santos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T02:06:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Santos.cshtml",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "RelativeToolTip": "Mapaulista-Web\\Views\\Home\\Santos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T01:26:09.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mapaulista-Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\olive\\source\\repos\\Mapaulista-Web\\Mapaulista-Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mapaulista-Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:25:19.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

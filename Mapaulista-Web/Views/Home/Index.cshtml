@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Mapaulista";
+    Layout = null;
+}
+
+<DOCTYPE html />
+<html lang="pt-br">
+<head>
+    <title>Tela de entrada</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="~/css/TelaInicial.css" />
+</head>
+<body>
+    <header>
+        <div class="profile">
+            <img src="~/img/profile.png" alt="Profile">
+            <span>Kinho</span>
+        </div>
+        <h1>Mapaulista</h1>
+        <nav>
+            <ul>
+                <li><a asp-controller="Home" asp-action="configuracoes" class="opcoes">configurações</a></li>
+               
+                
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+       
+        <main>
+           
+            <div class="search-container">
+                <input type="text" placeholder="Search">
+                <button class="filter-button"><img src="~/img/filter-icon.png" alt="Filter"></button>
+            </div>
+           
+            <h1 class="lugares">Lugares para visitar</h1>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Avaliação</th>
+                        <th>Nome</th>
+                        <th>Litoral</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+
+                    <tr>
+                        <td>4/5</td>
+                        <td>
+                            <a asp-controller="Praia" asp-action="Santos" class="santos">Santos</a>
+                        </td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+
+
+                    <tr>
+                        <td>3.5/5</td>
+                        <td>
+                            <a asp-controller="Praia" asp-action="Caraguatatuba" class="Caraguatatuba">Caraguatatuba</a>
+                        </td>
+                        <td><span class="tag norte">Norte</span></td>
+                    </tr>
+                    <tr>
+                        <td>4.5/5</td>
+                        <td>
+                            <a asp-controller="Praia" asp-action="Ilhabela" class="ilhabela">Ilhabela</a>
+                        </td>
+                        <td><span class="tag norte">Norte</span></td>
+                    </tr>
+                    <tr>
+                        <td>3.5/5</td>
+                        <td><a href="bertioga.html">Bertioga</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>4/5</td>
+                        <td><a href="sao_vicente.html">São Vicente</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>3.5/5</td>
+                        <td><a href="praia_grande.html">Praia Grande</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>3/5</td>
+                        <td><a href="mongagua.html">Mongaguá</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>3.5/5</td>
+                        <td><a href="peruibe.html">Peruíbe</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>3/5</td>
+                        <td><a href="iguape.html">Iguape</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>3.5/5</td>
+                        <td><a href="ilha_comprida.html">Ilha Comprida</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>3/5</td>
+                        <td><a href="cananeia.html">Cananéia</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                    <tr>
+                        <td>4/5</td>
+                        <td><a href="guaruja.html">Guarujá</a></td>
+                        <td><span class="tag sul">Sul</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </main>
+    </div>
+
+</body>
+</html>
+
+

@@ -1,0 +1,33 @@
+﻿
+    @model Municipio;
+        
+    @{
+        ViewData["Title"] = "Santos";
+        Layout = null;
+    }
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="~/css/Santos.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Santos</title>
+        
+        
+
+    </head>
+    <body>
+        <div class="container">
+            <h1>@Model.nome</h1>
+            <img src="~/img/Santos1.jpg" />
+            <p>Santos, uma cidade costeira no estado de São Paulo, no sul do Brasil, é uma importante extensão do porto marítimo que vai do continente à ilha de São Vicente. O centro urbano da ilha faz fronteira com a Baía de Santos, conhecida pela sua extensa praia e pelo jardim adjacente de 5,3 km de comprimento. O Museu do Café, que ocupa uma bolsa de mercadorias de 1922 preservada na zona histórica, explora o papel fundamental da área para o comércio de café do Brasil.</p>
+            <img src="~/img/Santos2.png" />
+            <div class="button-container">
+
+            <!--<button asp-action="Mapa">Ir ao Mapa</button>-->
+            <!--<button asp-action="Catalogo">Ir ao Catálogo</button>-->
+            </div>
+        </div>
+    </body>
+    </html>
